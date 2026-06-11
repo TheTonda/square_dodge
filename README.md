@@ -12,4 +12,4 @@
 - **CSS3** for styling
 - **Vanilla JavaScript** (No frameworks needed!)
 
-[👉 Play the Game Live!](YOUR_GITHUB_PAGES_LINK_HERE)
+[👉 Play the Game Live!](https://thetonda.github.io/square_dodge/)
